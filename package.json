@@ -1,13 +1,17 @@
 {
   "name": "paystack-transaction-pakage",
   "version": "1.0.0",
-  "description": "",
+  "description": "ReadMe.md",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richod1/paystack-transaction-pakage/tree/main"
+  },
   "keywords": [],
-  "author": "",
+  "author": "Degraft frimpong",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.4.0",
